@@ -4156,7 +4156,7 @@ a.vl-link.reverse:hover::after {
     padding: 60px;
     text-align: center;
     min-width: 30%;
-    background-color: rgba(252,210,9,0.95);
+    background-color: #F5C351;
 }
 
 .vl-hero-title-inner .vl-hero-title {
